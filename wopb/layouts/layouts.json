@@ -1,0 +1,20 @@
+[
+  {
+    "name":"basic",
+    "title":"Basic",
+    "paid":false,
+    "url":"https://wopb.wpxpo.com/layout/basic/"
+  },
+  {
+    "name":"clothing",
+    "title":"Clothing",
+    "paid":false,
+    "url":"https://wopb.wpxpo.com/layout/clothing/"
+  },
+  {
+    "name":"fashion",
+    "title":"Fashion",
+    "paid":false,
+    "url":"https://wopb.wpxpo.com/layout/fashion/"
+  }
+]
