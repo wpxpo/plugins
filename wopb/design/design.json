@@ -1,0 +1,21 @@
+{
+  "product-category-1":[
+      {"name":"Default Preset Design","source":"design_1"}
+  ],
+  "product-grid-1":[
+      {"name":"Default Preset Design","source":"design_1"}
+  ],
+  "product-grid-2":[
+      {"name":"Default Preset Design","source":"design_1"}
+  ],
+  "product-grid-3":[
+      {"name":"Default Preset Design","source":"design_1"}
+  ],
+  "product-list-1":[
+      {"name":"Default Preset Design","source":"design_1"}
+  ],
+  "heading":[
+      {"name":"Default Preset Design","source":"design_1"},
+      {"name":"Preset Design 2","source":"design_2"}
+  ]
+}
