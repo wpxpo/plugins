@@ -3,18 +3,18 @@
     "name":"basic",
     "title":"Basic",
     "paid":false,
-    "url":"https://wopb.wpxpo.com/layout/basic/"
+    "url":"https://wopb.wpxpo.com/template/basic/"
   },
   {
     "name":"clothing",
     "title":"Clothing",
     "paid":false,
-    "url":"https://wopb.wpxpo.com/layout/clothing/"
+    "url":"https://wopb.wpxpo.com/template/clothing/"
   },
   {
     "name":"fashion",
     "title":"Fashion",
     "paid":false,
-    "url":"https://wopb.wpxpo.com/layout/fashion/"
+    "url":"https://wopb.wpxpo.com/template/fashion/"
   }
 ]
